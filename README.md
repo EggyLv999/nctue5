@@ -1,0 +1,1 @@
+Here is a small portion (sections 3 and 4) of the platform.
