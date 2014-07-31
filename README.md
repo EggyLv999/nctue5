@@ -8,5 +8,10 @@ Here are a few links to useful software:
 4.ffmpeg/avconv
 5.ffserver/avserver
 
-To set up and run the node server, you will have to run `$npm install
-$node form.js` and the result will be available over port 8080 by default.
+To set up and run the node server, you will have to run 
+
+`$npm install
+
+$node form.js` 
+
+and the result will be available over port 8080 by default.
