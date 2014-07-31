@@ -10,6 +10,7 @@ $('#chat').submit(function(){
 socket.on('chat message', function(msg){
 	$('#messages').append($('<li>').text(msg));
 });
+
 function cname(name)
 {
 	name=prompt("Please enter your name");
